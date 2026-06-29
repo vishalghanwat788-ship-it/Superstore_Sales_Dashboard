@@ -54,7 +54,7 @@ Sample Superstore Dataset
 
 ---
 
-## 🚀 Skills Demonstrated
+## Skills Demonstrated
 
 - Data Cleaning
 - Data Analysis
